@@ -91,6 +91,14 @@ if(btn.isConfirmed)
               </p>
             </Link>
           </li>
+          <li className="nav-item">
+            <Link href="/backoffice/teste" className="nav-link">
+              <i className="nav-icon fas fa-file-alt"></i>
+              <p>
+                รสชาติอาหาร
+              </p>
+            </Link>
+          </li>
         </ul>
       </nav>
     </div>
